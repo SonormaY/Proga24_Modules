@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Name>Albert Johnson</Name>
+    <Position>Analyst</Position>
+    <HireDate>15/11/2008 00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <Name>John Doe</Name>
+    <Position>Manager</Position>
+    <HireDate>01/04/2010 00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <Name>Jane Smith</Name>
+    <Position>Developer</Position>
+    <HireDate>23/06/2015 00:00:00</HireDate>
+  </Employee>
+</Employees>
